@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/moayad hijjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moayad hijjo" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/moayod.hijjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moayod.hijjo" height="30" width="40" /></a>
 <a href="https://discord.gg/Moayad hijjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Moayad hijjo" height="30" width="40" /></a>
 </p>
 
